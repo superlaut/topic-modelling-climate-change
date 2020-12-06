@@ -1,2 +1,2 @@
-# topic-modelling-climate-change
-Topic modelling climate change.
+# Topic modelling and sentiment analysis of 20 years of climate change media coverage using a big data pipeline
+Climate change is a pressing issue. How climate change is reported in the media massively shapes public understanding of the issue. It is, therefore, crucial to understand the way in which the press reports climate change. This paper analyses over 20 thousand articles on climate change from 2000-2020 by the U.K. newspaper the Guardian, and attempts to understand its reporting through topic modelling and sentiment analysis. The focus of of these articles has shifted more towards global warming, while the tone of the articles has largely remained negative and unchanged over the course of these 20 years.
